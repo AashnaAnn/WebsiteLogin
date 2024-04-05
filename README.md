@@ -1,3 +1,3 @@
 # WebsiteLogin
-This is an HTML, CSS and JavaScript project <br>
+This is an HTML, CSS and JavaScript project. <br>
 Author - Aashna Ann Kuriakose
